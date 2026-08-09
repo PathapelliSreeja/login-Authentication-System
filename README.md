@@ -29,6 +29,11 @@ Login-Authentication-System/
 ├── index.html
 ├── style.css
 ├── script.js
+├── dashboard.html
+├── dashboard.js
+├── register.html
+├── register.js
+├── utils.js
 └── README.md
 ```
 
@@ -86,11 +91,8 @@ Add screenshots or a demo video of the project here.
 
 ## 👩‍💻 Author
 
----
-
 **Sreeja Pathapelli**
 
----
 
 ## License
 
